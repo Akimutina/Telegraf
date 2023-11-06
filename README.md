@@ -1,4 +1,4 @@
-## **Dashboard**
+## **Dashboard telegraf + influxDB**
 
 ![Screenshot1](https://github.com/Akimutina/Telegraf/blob/main/telegraf/screenshots/Telegraf-%20system%20dashboard%20-%20Dashboards%20-%20Grafana%202023-11-06%2012-52-40.png)
 ![Screenshot2](https://github.com/Akimutina/Telegraf/blob/main/telegraf/screenshots/Telegraf-%20system%20dashboard%20-%20Dashboards%20-%20Grafana%202023-11-06%2012-53-36.png)
@@ -12,3 +12,11 @@
 ![Screenshot10](https://github.com/Akimutina/Telegraf/blob/main/telegraf/screenshots/Telegraf-%20system%20dashboard%20-%20Dashboards%20-%20Grafana%202023-11-06%2012-56-51.png)
 ![Screenshot11](https://github.com/Akimutina/Telegraf/blob/main/telegraf/screenshots/Telegraf-%20system%20dashboard%20-%20Dashboards%20-%20Grafana%202023-11-06%2012-57-51.png)
 ![Screenshot12](https://github.com/Akimutina/Telegraf/blob/main/telegraf/screenshots/Telegraf-%20system%20dashboard%20-%20Dashboards%20-%20Grafana%202023-11-06%2012-58-07.png)
+
+## **Dashboard node-exporter+prometheus**
+
+![Screenshot1](https://github.com/Akimutina/Telegraf/blob/main/prometheus/screenshots/Node%20Exporter%20Full%20-%20Dashboards%20-%20Grafana%202023-11-06%2013-32-21.png)
+![Screenshot2](https://github.com/Akimutina/Telegraf/blob/main/prometheus/screenshots/Node%20Exporter%20Full%20-%20Dashboards%20-%20Grafana%202023-11-06%2013-32-43.png)
+![Screenshot3](https://github.com/Akimutina/Telegraf/blob/main/prometheus/screenshots/Node%20Exporter%20Full%20-%20Dashboards%20-%20Grafana%202023-11-06%2013-33-12.png)
+![Screenshot4](https://github.com/Akimutina/Telegraf/blob/main/prometheus/screenshots/Node%20Exporter%20Full%20-%20Dashboards%20-%20Grafana%202023-11-06%2013-33-27.png)
+![Screenshot5](https://github.com/Akimutina/Telegraf/blob/main/prometheus/screenshots/Node%20Exporter%20Full%20-%20Dashboards%20-%20Grafana%202023-11-06%2013-33-48.png)
